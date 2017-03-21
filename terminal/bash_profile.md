@@ -27,3 +27,8 @@ $ echo $PATH
 ```
 $ alias
 ```
+
+## Reload Bash
+```
+$ . ~/.bash_profile
+```
