@@ -12,6 +12,7 @@ w3m website.com
 ```
 
 **List of commands**
+
 |   keys    | command             |
 |:---------:|---------------------|
 |CRTL + h   | view URL history    |    
