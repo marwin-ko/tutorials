@@ -10,3 +10,11 @@ This is a repo for my tutorials.
 - machine learning (quick & dirty approach)
 - using APIs (twitter, facebook, etc)
 - flask
+
+
+## To learn list
+- how to set up microsoft remote desktop
+- git: create, work on, merge back, a branch
+- git: resolve a merge conflict
+- docker: basic commands
+- docker: build image
